@@ -1,1 +1,3 @@
-# web_mining_study_note
+# 这是关于web数据挖掘的学习笔记
+
+* 希望我有勇气坚持下去。
